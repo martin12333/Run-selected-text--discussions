@@ -1,6 +1,6 @@
 # Run-selected-text--discussions
 
-## Example
+## Examples
 
 ### VSCode runSelectedText
 
