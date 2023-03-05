@@ -3,6 +3,6 @@
 ## Examples
 
 ### VSCode runSelectedText
+* https://github.com/martin12333/Run-selected-text--discussions/wiki/VSCode-runSelectedText
 
-* https://code.visualstudio.com/docs/terminal/basics#_run-selected-text
 
