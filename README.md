@@ -1,8 +1,14 @@
-# Run-selected-text--discussions
 
-## Examples
+## This discussion repo is about ...
 
-### VSCode runSelectedText
-* [wiki/VSCode-runSelectedText](https:/martin12333/Run-selected-text--discussions/wiki/VSCode-runSelectedText)
+macros
 
+in editors
 
+to send
+
+a line of text (or a block of text)
+
+to a shell or an interpreter.
+
+## Some info is in the [wiki](https://github.com/martin12333/Run-selected-text--discussions/wiki)
