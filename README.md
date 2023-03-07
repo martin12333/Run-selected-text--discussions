@@ -7,7 +7,7 @@ in editors
 
 to send
 
-a line of text (or, perhaps, a block of text)
+a **line** of text (or, perhaps, a block of text)
 
 to a shell or an interpreter.
 
