@@ -16,6 +16,9 @@ to a shell or an interpreter
 
 (
 I am trying to connect with people, who like similar tools.
+
+There is also a related subreddit: https://www.reddit.com/r/semi_programming/
+
 )
 
 ## Some info is in the [wiki](https://github.com/martin12333/Run-selected-text--discussions/wiki)
