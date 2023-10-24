@@ -19,6 +19,8 @@ I am trying to connect with people, who like similar tools.
 
 There is also a related subreddit: https://www.reddit.com/r/semi_programming/    )
 
+more of related keywords: automation, sendkeys
+
 ## Some info is in the [wiki](https://github.com/martin12333/Run-selected-text--discussions/wiki)
 
 
